@@ -17,7 +17,7 @@
         "vue-json-pretty": "^1.6.3",
         "vue-nprogress": "^0.1.5",
         "vue-router": "^3.2.0",
-        "vuetify": "^2.2.29",
+        "vuetify": "^2.6.10",
         "write-json-file": "^4.3.0"
     },
     "devDependencies": {
